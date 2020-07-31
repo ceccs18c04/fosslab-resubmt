@@ -6,7 +6,7 @@ Basic usage of simple linux commands
 
 ## t5-FTP usage
 
-Accessing ftp server
+Accessing ftp server retrieving and uploading files
 
 ## t7-HTTP and FTP server
 
