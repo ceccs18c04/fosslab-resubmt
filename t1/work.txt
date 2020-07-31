@@ -1,0 +1,302 @@
+Script started on 2020-07-31 14:17:41+05:30 [TERM="st-256color" TTY="/dev/pts/0" COLUMNS="191" LINES="50"]
+[0m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                                                                                                                              [0m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m
+[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mfoss[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m                                                                                                                                                                                     [0m[49m[39m[0m[49m[39m[27m[24m[9C[?25l8[0m[49m[39m[27m[24m[J]0;~/foss[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                                                                                                                              [0m[49m[39m[27m[24m[K[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mfoss[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[181C[0m[49m[39m[181D[?1h=[?12l[?25h[?2004hcclear[?1l>[?2004l
+]0;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mfoss[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[181C[0m[49m[39m[181D[?1h=[?2004hmmkdr id r tet st[?1l>[?2004l
+]0;mkdir[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39mfoss[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[181C[0m[49m[39m[181D[?1h=[?2004hccd test[?1l>[?2004l
+]0;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[38;5;31m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004httouch one.txt[?1l>[?2004l
+]0;touch[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hnnnao   n nnan  n nano 1 one.txt[1m [0m[0m [?1l>[?2004l
+]0;nano[?2004h)0[?1049h[1;50r[0m[4l[39;49m[?1h=[?1h=[?25l[39;49m[0m[H[2J[48;89H(B[0;7m[ Reading... ][0m[48;88H(B[0;7m[ Read 0 lines ][0m[H(B[0;7m  GNU nano 4.9.3                                                                               one.txt                                                                                         [1;190H[0m[49d(B[0;7m^G[0m Get Help[18G(B[0;7m^O[0m Write Out     (B[0;7m^W[0m Where Is[52G(B[0;7m^K[0m Cut Text[69G(B[0;7m^J[0m Justify[86G(B[0;7m^C[0m Cur Pos[103G(B[0;7mM-U[0m Undo[49;120H(B[0;7mM-A[0m Mark Text    (B[0;7mM-][0m To Bracket   (B[0;7mM-Q[0m Previous     (B[0;7m^B[0m Back[50d(B[0;7m^X[0m Exit[50;18H(B[0;7m^R[0m Read File     (B[0;7m^\[0m Replace[52G(B[0;7m^U[0m Paste Text    (B[0;7m^T[0m To Spell[86G(B[0;7m^_[0m Go To Line    (B[0;7mM-E[0m Redo[50;120H(B[0;7mM-6[0m Copy Text    (B[0;7m^Q[0m Where Was     (B[0;7mM-W[0m Next[50;171H(B[0;7m^F[0m Forward[48d[2d[39;49m[0m[?12l[?25h[?25l[1;182H(B[0;7mModified[0m[2dt[?12l[?25h[?25le[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l[48;88H (B[0;7m[ Writing... ][0m[K[1;182H(B[0;7m        [0m[48;88H(B[0;7m[ Wrote 1 line ][0m[2;5H[?12l[?25h[?25l[48d[J[50d[?12l[?25h[50;1H[?1049l[?1l>[?2004l[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[174C[0m[49m[38;5;101m5s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[176D[?1h=[?2004hccp one .txt[1m [0m[0m two.txt[?1l>[?2004l
+]0;cp[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hl ccta  a c cac t two.txt[?1l>[?2004l
+]0;cattest
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hpps aua x[?1l>[?2004l
+]0;psUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.2 174788 11776 ?        Ss   14:01   0:01 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    14:01   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   14:01   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   14:01   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/0:0H-kblockd]
+root           8  0.0  0.0      0     0 ?        I<   14:01   0:00 [mm_percpu_wq]
+root           9  0.0  0.0      0     0 ?        S    14:01   0:00 [ksoftirqd/0]
+root          10  0.0  0.0      0     0 ?        S    14:01   0:00 [rcuc/0]
+root          11  0.0  0.0      0     0 ?        I    14:01   0:00 [rcu_preempt]
+root          12  0.0  0.0      0     0 ?        S    14:01   0:00 [rcub/0]
+root          13  0.0  0.0      0     0 ?        S    14:01   0:00 [migration/0]
+root          14  0.0  0.0      0     0 ?        S    14:01   0:00 [idle_inject/0]
+root          15  0.0  0.0      0     0 ?        I    14:01   0:00 [kworker/0:1-events]
+root          16  0.0  0.0      0     0 ?        S    14:01   0:00 [cpuhp/0]
+root          17  0.0  0.0      0     0 ?        S    14:01   0:00 [cpuhp/1]
+root          18  0.0  0.0      0     0 ?        S    14:01   0:00 [idle_inject/1]
+root          19  0.0  0.0      0     0 ?        S    14:01   0:00 [migration/1]
+root          20  0.0  0.0      0     0 ?        S    14:01   0:00 [rcuc/1]
+root          21  0.0  0.0      0     0 ?        S    14:01   0:00 [ksoftirqd/1]
+root          23  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/1:0H-kblockd]
+root          24  0.0  0.0      0     0 ?        S    14:01   0:00 [cpuhp/2]
+root          25  0.0  0.0      0     0 ?        S    14:01   0:00 [idle_inject/2]
+root          26  0.0  0.0      0     0 ?        S    14:01   0:00 [migration/2]
+root          27  0.0  0.0      0     0 ?        S    14:01   0:00 [rcuc/2]
+root          28  0.0  0.0      0     0 ?        S    14:01   0:00 [ksoftirqd/2]
+root          30  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/2:0H-kblockd]
+root          31  0.0  0.0      0     0 ?        S    14:01   0:00 [cpuhp/3]
+root          32  0.0  0.0      0     0 ?        S    14:01   0:00 [idle_inject/3]
+root          33  0.0  0.0      0     0 ?        S    14:01   0:00 [migration/3]
+root          34  0.0  0.0      0     0 ?        S    14:01   0:00 [rcuc/3]
+root          35  0.0  0.0      0     0 ?        S    14:01   0:00 [ksoftirqd/3]
+root          37  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/3:0H-kblockd]
+root          38  0.0  0.0      0     0 ?        S    14:01   0:00 [kdevtmpfs]
+root          39  0.0  0.0      0     0 ?        I<   14:01   0:00 [netns]
+root          40  0.0  0.0      0     0 ?        S    14:01   0:00 [rcu_tasks_kthre]
+root          41  0.0  0.0      0     0 ?        S    14:01   0:00 [kauditd]
+root          43  0.0  0.0      0     0 ?        S    14:01   0:00 [khungtaskd]
+root          44  0.0  0.0      0     0 ?        S    14:01   0:00 [oom_reaper]
+root          45  0.0  0.0      0     0 ?        I<   14:01   0:00 [writeback]
+root          46  0.0  0.0      0     0 ?        S    14:01   0:00 [kcompactd0]
+root          47  0.0  0.0      0     0 ?        SN   14:01   0:00 [ksmd]
+root          48  0.0  0.0      0     0 ?        SN   14:01   0:00 [khugepaged]
+root         137  0.0  0.0      0     0 ?        I<   14:01   0:00 [kintegrityd]
+root         138  0.0  0.0      0     0 ?        I<   14:01   0:00 [kblockd]
+root         139  0.0  0.0      0     0 ?        I<   14:01   0:00 [blkcg_punt_bio]
+root         140  0.0  0.0      0     0 ?        I<   14:01   0:00 [ata_sff]
+root         141  0.0  0.0      0     0 ?        I<   14:01   0:00 [edac-poller]
+root         142  0.0  0.0      0     0 ?        I<   14:01   0:00 [devfreq_wq]
+root         143  0.0  0.0      0     0 ?        S    14:01   0:00 [watchdogd]
+root         145  0.0  0.0      0     0 ?        S    14:01   0:00 [irq/24-AMD-Vi]
+root         146  0.0  0.0      0     0 ?        S    14:01   0:00 [kswapd0]
+root         149  0.0  0.0      0     0 ?        I<   14:01   0:00 [kthrotld]
+root         150  0.0  0.0      0     0 ?        S    14:01   0:00 [irq/28-pciehp]
+root         151  0.0  0.0      0     0 ?        I<   14:01   0:00 [acpi_thermal_pm]
+root         152  0.0  0.0      0     0 ?        I<   14:01   0:00 [amd_iommu_v2]
+root         153  0.0  0.0      0     0 ?        I<   14:01   0:00 [nvme-wq]
+root         154  0.0  0.0      0     0 ?        I<   14:01   0:00 [nvme-reset-wq]
+root         155  0.0  0.0      0     0 ?        I<   14:01   0:00 [nvme-delete-wq]
+root         156  0.0  0.0      0     0 ?        S    14:01   0:00 [scsi_eh_0]
+root         157  0.0  0.0      0     0 ?        I<   14:01   0:00 [scsi_tmf_0]
+root         158  0.0  0.0      0     0 ?        S    14:01   0:00 [scsi_eh_1]
+root         159  0.0  0.0      0     0 ?        I<   14:01   0:00 [scsi_tmf_1]
+root         160  0.0  0.0      0     0 ?        I    14:01   0:01 [kworker/u8:2-events_unbound]
+root         161  0.0  0.0      0     0 ?        I<   14:01   0:00 [ipv6_addrconf]
+root         172  0.0  0.0      0     0 ?        I<   14:01   0:00 [kstrp]
+root         178  0.0  0.0      0     0 ?        I<   14:01   0:00 [zswap-shrink]
+root         179  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/u9:0-hci0]
+root         190  0.0  0.0      0     0 ?        I<   14:01   0:00 [charger_manager]
+root         191  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/3:1H-kblockd]
+root         217  0.0  0.0      0     0 ?        I    14:01   0:00 [kworker/2:2-events]
+root         228  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/0:1H-kblockd]
+root         235  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/2:1H-kblockd]
+root         236  0.0  0.0      0     0 ?        S    14:01   0:00 [jbd2/sda6-8]
+root         237  0.0  0.0      0     0 ?        I<   14:01   0:00 [ext4-rsv-conver]
+root         238  0.0  0.0      0     0 ?        I<   14:01   0:00 [kworker/1:1H-kblockd]
+root         283  0.0  0.0      0     0 ?        I    14:01   0:00 [kworker/1:2-events]
+root         310  0.0  0.0      0     0 ?        I    14:01   0:00 [kworker/3:3-events]
+root         312  0.0  0.1   8132  4888 ?        Ss   14:01   0:00 /usr/sbin/haveged -w 1024 -v 1 --Foreground
+root         313  0.0  0.4  68180 19112 ?        Ss   14:01   0:00 /usr/lib/systemd/systemd-journald
+root         314  0.1  0.3  34000 11984 ?        Ss   14:01   0:01 /usr/lib/systemd/systemd-udevd
+root         351  0.0  0.0  78060  1104 ?        Ss   14:02   0:00 /usr/bin/lvmetad -f
+root         375  0.0  0.0      0     0 ?        I<   14:02   0:00 [tpm_dev_wq]
+root         380  0.0  0.0      0     0 ?        I<   14:02   0:00 [asus_wireless_w]
+root         381  0.0  0.0      0     0 ?        S    14:02   0:00 [irq/34-ELAN1300]
+root         386  0.0  0.0      0     0 ?        I<   14:02   0:00 [cryptd]
+root         437  0.0  0.0      0     0 ?        I    14:02   0:00 [kworker/u8:3-phy0]
+root         439  0.0  0.0      0     0 ?        I<   14:02   0:00 [cfg80211]
+root         451  0.0  0.0      0     0 ?        I<   14:02   0:00 [led_workqueue]
+root         468  0.0  0.0      0     0 ?        I<   14:02   0:00 [ttm_swap]
+root         477  0.0  0.0      0     0 ?        I<   14:02   0:00 [ath10k_wq]
+root         478  0.0  0.0      0     0 ?        I<   14:02   0:00 [ath10k_aux_wq]
+root         484  0.2  0.0      0     0 ?        S    14:02   0:03 [gfx]
+root         485  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.0.0]
+root         486  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.1.0]
+root         487  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.2.0]
+root         488  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.3.0]
+root         489  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.0.1]
+root         490  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.1.1]
+root         491  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.2.1]
+root         492  0.0  0.0      0     0 ?        S    14:02   0:00 [comp_1.3.1]
+root         493  0.0  0.0      0     0 ?        S    14:02   0:00 [sdma0]
+root         494  0.0  0.0      0     0 ?        S    14:02   0:00 [sdma1]
+root         495  0.0  0.0      0     0 ?        S    14:02   0:00 [uvd]
+root         496  0.0  0.0      0     0 ?        S    14:02   0:00 [vce0]
+root         497  0.0  0.0      0     0 ?        S    14:02   0:00 [vce1]
+root         738  0.0  0.0      0     0 ?        S    14:02   0:00 [jbd2/sda8-8]
+root         739  0.0  0.0      0     0 ?        I<   14:02   0:00 [ext4-rsv-conver]
+systemd+     814  0.0  0.1  91244  7240 ?        Ssl  14:02   0:00 /usr/lib/systemd/systemd-timesyncd
+avahi        825  0.0  0.0   6576  3640 ?        Ss   14:02   0:00 avahi-daemon: running [manjaro.local]
+root         826  0.0  0.1  10268  5532 ?        Ss   14:02   0:00 /usr/lib/bluetooth/bluetoothd
+root         827  0.0  0.0   6604  2704 ?        Ss   14:02   0:00 /usr/bin/crond -n
+dbus         828  0.0  0.1   7556  4912 ?        Ss   14:02   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         829  0.0  0.5 329976 19884 ?        Ssl  14:02   0:00 /usr/bin/NetworkManager --no-daemon
+polkitd      831  0.0  0.5 1659232 21904 ?       Ssl  14:02   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         834  0.0  0.2  17160  8740 ?        Ss   14:02   0:00 /usr/lib/systemd/systemd-logind
+root         835  0.0  0.0      0     0 ?        I<   14:02   0:00 [kworker/u9:2-hci0]
+avahi        836  0.0  0.0   6396   348 ?        S    14:02   0:00 avahi-daemon: chroot helper
+root         871  0.0  0.1 304752  7128 ?        SLsl 14:02   0:00 /usr/bin/lightdm
+root         876  0.0  0.2 238680 10188 ?        Ssl  14:02   0:00 /usr/bin/ModemManager
+root         882  2.5  2.3 1010272 91356 tty7    Rsl+ 14:02   0:29 /usr/lib/Xorg :0 -seat seat0 -auth /run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         884  0.0  0.1 234956  7600 ?        Ssl  14:02   0:00 /usr/lib/accounts-daemon
+root         897  0.0  0.2  13680  8792 ?        Ss   14:02   0:00 /usr/bin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root        1164  0.0  0.2 160720  8756 ?        Sl   14:02   0:00 lightdm --session-child 12 19
+root        1170  0.0  0.2  26000  8820 ?        Ss   14:02   0:00 /usr/bin/cupsd -l
+arjunr      1175  0.0  0.2  18724  9956 ?        Ss   14:02   0:00 /usr/lib/systemd/systemd --user
+arjunr      1176  0.0  0.0  29956  3200 ?        S    14:02   0:00 (sd-pam)
+arjunr      1190  0.0  0.2  37856 10504 ?        Ss   14:02   0:00 dwm
+arjunr      1196  0.0  0.0   3852  2520 ?        S    14:02   0:00 dwmblocks
+arjunr      1209  0.0  0.1   6532  4352 ?        Ss   14:02   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+arjunr      1230  0.2  0.4  44804 16908 ?        Ss   14:02   0:02 st
+arjunr      1231  0.0  0.2  12032  8072 pts/0    Ss   14:02   0:01 /bin/zsh
+arjunr      1233  0.0  0.0   9768  3952 pts/0    S    14:02   0:00 /bin/zsh
+arjunr      1260  0.0  0.1  11592  4504 pts/0    S    14:02   0:00 /bin/zsh
+arjunr      1261  0.0  0.0  11576  3104 pts/0    S    14:02   0:00 /bin/zsh
+arjunr      1263  0.0  0.0   3420  1056 pts/0    Sl   14:02   0:00 /home/arjunr/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.0.0 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 8
+arjunr      1418  0.0  0.1 236188  7868 ?        Ssl  14:03   0:00 /usr/lib/gvfsd
+arjunr      1423  0.0  0.1 378924  6308 ?        Sl   14:03   0:00 /usr/lib/gvfsd-fuse /run/user/1000/gvfs -f
+arjunr      1505  0.0  0.4 256244 16748 ?        Ssl  14:03   0:00 /usr/lib/xfce4/notifyd/xfce4-notifyd
+arjunr      1509  0.0  0.1 228756  5592 ?        Sl   14:03   0:00 /usr/lib/xfce4/xfconf/xfconfd
+arjunr      1518  0.0  0.1 304124  6540 ?        Ssl  14:03   0:00 /usr/lib/at-spi-bus-launcher
+arjunr      1527  0.0  0.0   6268  3660 ?        S    14:03   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+arjunr      1530  0.0  0.1 159768  7888 ?        Sl   14:03   0:00 /usr/lib/at-spi2-registryd --use-gnome-session
+root        1591  0.0  0.2 248852  9692 ?        Ssl  14:03   0:00 /usr/lib/upowerd
+arjunr      2288  0.0  0.3 496240 12496 ?        S<sl 14:04   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit       2289  0.0  0.0 152728  2932 ?        SNsl 14:04   0:00 /usr/lib/rtkit-daemon
+arjunr      2295  0.0  0.1 235224  7136 ?        Sl   14:04   0:00 /usr/lib/pulse/gsettings-helper
+root        2301  0.0  0.0      0     0 ?        S<   14:04   0:00 [krfcommd]
+arjunr      2339  0.0  0.0   8256  3472 ?        S    14:04   0:00 /bin/zsh
+arjunr      2342  0.0  0.0   7176  3484 ?        S    14:05   0:00 bash /usr/bin/brave
+arjunr      2347  5.5  6.2 980244 248488 ?       Sl   14:05   0:55 /usr/lib/brave-bin/brave
+arjunr      2350  0.0  1.5 272396 61832 ?        S    14:05   0:00 /usr/lib/brave-bin/brave --type=zygote --no-zygote-sandbox
+arjunr      2351  0.0  1.5 272396 61896 ?        S    14:05   0:00 /usr/lib/brave-bin/brave --type=zygote
+arjunr      2353  0.0  0.5 272396 20392 ?        S    14:05   0:00 /usr/lib/brave-bin/brave --type=zygote
+arjunr      2375  4.8  3.7 745288 150596 ?       Sl   14:05   0:48 /usr/lib/brave-bin/brave --type=gpu-process --field-trial-handle=17958099476872479754,8699844458292081048,131072 --enable-fe
+arjunr      2377  0.4  2.3 363248 93992 ?        Sl   14:05   0:04 /usr/lib/brave-bin/brave --type=utility --field-trial-handle=17958099476872479754,8699844458292081048,131072 --enable-featur
+arjunr      2381  0.0  1.7 306588 68252 ?        Sl   14:05   0:00 /usr/lib/brave-bin/brave --type=utility --field-trial-handle=17958099476872479754,8699844458292081048,131072 --enable-featur
+arjunr      2382  0.0  0.8 306588 32336 ?        Sl   14:05   0:00 /usr/lib/brave-bin/brave --type=utility --field-trial-handle=17958099476872479754,8699844458292081048,131072 --enable-featur
+arjunr      2394  0.5  2.9 4631136 115940 ?      Sl   14:05   0:05 /usr/lib/brave-bin/brave --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=17958099476872479754,869
+root        3336  0.0  0.0      0     0 ?        R    14:07   0:00 [kworker/u8:0-events_unbound]
+root        3668  0.0  0.0   6444  2792 ?        Ss   14:09   0:00 /usr/bin/vsftpd
+root        3745  0.0  0.0      0     0 ?        I    14:10   0:00 [kworker/0:0-events]
+root        4011  0.0  0.0      0     0 ?        I    14:11   0:00 [kworker/1:0-events]
+arjunr      4041  0.0  0.3 348168 12200 ?        Ssl  14:11   0:00 /usr/lib/gvfs-udisks2-volume-monitor
+root        4044  0.0  0.3 392156 13428 ?        Ssl  14:11   0:00 /usr/lib/udisks2/udisksd
+arjunr      4063  0.0  0.2 313360  8776 ?        Ssl  14:11   0:00 /usr/lib/gvfs-afc-volume-monitor
+arjunr      4068  0.0  0.1 232192  5432 ?        Ssl  14:11   0:00 /usr/lib/gvfs-mtp-volume-monitor
+arjunr      4072  0.0  0.1 234564  7256 ?        Ssl  14:11   0:00 /usr/lib/gvfs-gphoto2-volume-monitor
+arjunr      4076  0.0  0.1 310268  7932 ?        Sl   14:11   0:00 /usr/lib/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+arjunr      4088  0.0  0.2 310388  8288 ?        Sl   14:11   0:00 /usr/lib/gvfsd-network --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+root        4089  0.0  0.0      0     0 ?        I    14:11   0:00 [kworker/3:1-events]
+arjunr      4111  0.0  0.1 154920  5344 ?        Sl   14:12   0:00 /usr/lib/dconf-service
+arjunr      4115  0.0  0.2 311360  8464 ?        Sl   14:12   0:00 /usr/lib/gvfsd-dnssd --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+root        4176  0.0  0.0      0     0 ?        I    14:12   0:00 [kworker/2:0-events]
+arjunr      4503  3.3  5.1 4699640 204224 ?      Sl   14:14   0:14 /usr/lib/brave-bin/brave --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=17958099476872479754,869
+arjunr      4546  0.0  1.4 4561484 56584 ?       Sl   14:14   0:00 /usr/lib/brave-bin/brave --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=17958099476872479754,869
+root        4785  0.0  0.0      0     0 ?        I    14:16   0:00 [kworker/0:2-events]
+root        4786  0.0  0.0      0     0 ?        I    14:16   0:00 [kworker/0:3]
+arjunr      4874  0.0  0.0   5452  2352 pts/0    S+   14:17   0:00 script work.txt
+arjunr      4875  0.3  0.2  12352  8300 pts/1    Ss   14:17   0:00 zsh -i
+arjunr      4878  0.0  0.1   9740  4076 pts/1    S    14:17   0:00 zsh -i
+arjunr      4901  0.0  0.1  11576  4528 pts/1    S    14:17   0:00 zsh -i
+arjunr      4902  0.0  0.0  11560  3092 pts/1    S    14:17   0:00 zsh -i
+arjunr      4904  0.0  0.0   3420     4 pts/1    Sl   14:17   0:00 /home/arjunr/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.0.0 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 8
+arjunr      5392  0.0  0.0   8820  3244 pts/1    R+   14:21   0:00 ps aux
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hcclear[?1l>[?2004l
+]0;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hwwhoami[?1l>[?2004l
+]0;whoamiarjunr
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hmman vim[?1l>[?2004l
+]0;man[?1049h[?1h=VIM(1)                                                                            General Commands Manual                                                                           VIM(1)[m
+[m
+[1mNAME[0m[m
+       vim - Vi IMproved, a programmer's text editor[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mvim[0m [options] [file ..][m
+       [1mvim[0m [options] -[m
+       [1mvim[0m [options] -t tag[m
+       [1mvim[0m [options] -q [errorfile][m
+[m
+       [1mex[0m[m
+       [1mview[0m[m
+       [1mgvim[0m [1mgview[0m [1mevim[0m [1meview[0m[m
+       [1mrvim[0m [1mrview[0m [1mrgvim[0m [1mrgview[0m[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mVim[0m is a text editor that is upwards compatible to Vi.  It can be used to edit all kinds of plain text.  It is especially useful for editing programs.[m
+[m
+       There  are a lot of enhancements above Vi: multi level undo, multi windows and buffers, syntax highlighting, command line editing, filename completion, on-line help, visual selec‐[m
+       tion, etc..  See ":help vi_diff.txt" for a summary of the differences between [1mVim[0m and Vi.[m
+[m
+       While running [1mVim[0m a lot of help can be obtained from the on-line help system, with the ":help" command.  See the ON-LINE HELP section below.[m
+[m
+       Most often [1mVim[0m is started to edit a single file with the command[m
+[m
+            vim file[m
+[m
+       More generally [1mVim[0m is started with:[m
+[m
+            vim [options] [filelist][m
+[m
+       If the filelist is missing, the editor will start with an empty buffer.  Otherwise exactly one out of the following four may be used to choose one or more files to be edited.[m
+[m
+       file ..     A list of filenames.  The first one will be the current file and read into the buffer.  The cursor will be positioned on the first line of the buffer.  You can get  to[m
+                   the other files with the ":next" command.  To edit a file that starts with a dash, precede the filelist with "--".[m
+[m
+       -           The file to edit is read from stdin.  Commands are read from stderr, which should be a tty.[m
+[m
+       -t {tag}    The  file  to edit and the initial cursor position depends on a "tag", a sort of goto label.  {tag} is looked up in the tags file, the associated file becomes the cur‐[m
+                   rent file and the associated command is executed.  Mostly this is used for C programs, in which case {tag} could be a function name.  The effect is that the file  con‐[m
+                   taining that function becomes the current file and the cursor is positioned on the start of the function.  See ":help tag-commands".[m
+[m
+       -q [errorfile][m
+                   Start  in  quickFix mode.  The file [errorfile] is read and the first error is displayed.  If [errorfile] is omitted, the filename is obtained from the 'errorfile' op‐[m
+                   tion (defaults to "AztecC.Err" for the Amiga, "errors.err" on other systems).  Further errors can be jumped to with the ":cn" command.  See ":help quickfix".[m
+[m
+       [1mVim[0m behaves differently, depending on the name of the command (the executable may still be the same file).[m
+[m
+[7m Manual page vim(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hpping[?1l>[?2004l
+]0;pingping: usage error: Destination address required
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hffif  iifconfig [?1l>[?2004l
+]0;ifconfiglo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 263  bytes 793728 (775.1 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 263  bytes 793728 (775.1 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp1s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.43.55  netmask 255.255.255.0  broadcast 192.168.43.255
+        inet6 fe80::7326:dfcd:f831:3488  prefixlen 64  scopeid 0x20<link>
+        ether d0:c5:d3:c0:72:8b  txqueuelen 1000  (Ethernet)
+        RX packets 14577  bytes 15337441 (14.6 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 10338  bytes 1228011 (1.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hpping [7m192.168.43.55[27m[13D[27m1[27m9[27m2[27m.[27m1[27m6[27m8[27m.[27m4[27m3[27m.[27m5[27m5[?1l>[?2004l
+]0;pingPING 192.168.43.55 (192.168.43.55) 56(84) bytes of data.
+64 bytes from 192.168.43.55: icmp_seq=1 ttl=64 time=0.050 ms
+64 bytes from 192.168.43.55: icmp_seq=2 ttl=64 time=0.053 ms
+64 bytes from 192.168.43.55: icmp_seq=3 ttl=64 time=0.055 ms
+64 bytes from 192.168.43.55: icmp_seq=4 ttl=64 time=0.065 ms
+^C
+--- 192.168.43.55 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3036ms
+rtt min/avg/max/mdev = 0.050/0.055/0.065/0.005 ms
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[174C[0m[49m[38;5;101m4s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[39m[176D[?1h=[?2004hcclear[?1l>[?2004l
+]0;clear[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004hlls -a[?1l>[?2004l
+]0;ls[0m[01;34m.[0m  [01;34m..[0m  one.txt  two.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                               ]0;~/foss/test[0m[49m[39m[K
+[0m[27m[24m[J[0m[49m[39m[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/foss/[1m[38;5;31m[38;5;39mtest[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[176C[0m[49m[39m[176D[?1h=[?2004heexit[?1l>[?2004l
+]0;exit
+Script done on 2020-07-31 14:25:39+05:30 [COMMAND_EXIT_CODE="0"]
